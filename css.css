@@ -1,0 +1,169 @@
+
+body{
+	margin: 0px;
+}
+
+.cabecalho {
+height:100px;
+background-color: blue;
+color: #fff;
+font-size: 20px;
+
+}
+
+.publicacao{
+	width: 1000px; 
+	margin:auto;
+
+}
+
+.perfil{
+	float: left;
+	line-height: 50px;
+	font-size: 40px;
+	font-style:italic; 
+	}
+
+.menu{
+	float: right;
+
+}
+li{
+	float: right;
+	padding-right:30px;
+	color: #fff;
+	list-style: none;
+	font-size: 30px;
+
+
+}
+
+li:hover{
+	color:#347aba;
+}
+
+.banner{
+	width: 1680px;
+	margin: auto;
+	
+}
+
+
+
+.banner img{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+}
+
+.mensagem{ 
+	text-align: center;
+	position: fixed;
+	font-size: 70px;
+	color: #fff;
+	top: 270px;
+	right: 30px;
+}
+
+
+
+
+.foibom{
+	text-align: left;
+	position: fixed;
+	font-size: 20px;
+	top: 180px;
+	left: 100px;
+
+
+}
+
+
+h1{
+	text-align: center;
+	position: fixed;
+	font-size: 50px;
+	color:blue;
+	top: 50px;
+	left: 5px;
+	height: 80px;
+	background: linear-gradient(-180deg,#F8F8FF,blue);
+	width: 1270px;
+	border-radius: 10px;
+}
+
+.hamelhorar{
+	text-align: left;
+	position: fixed;
+	font-size: 20px;
+	top: 180px;
+	left: 100px;
+
+}
+
+.planos{
+	text-align: left;
+	position: fixed;
+	font-size: 20px;
+	top: 180px;
+	left: 100px;
+	
+
+}
+
+.voltar{
+	position: fixed;
+	top: 400px;
+	float: right;
+	left: 100px;
+	height: 30px;
+	width: 60px;
+	border-radius: 10px;
+	background-color: #4169E1;
+	text-decoration:none;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 300px) {
+	.cabecalho {
+height:50px;
+background-color: #000;
+color: #fff;
+font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
